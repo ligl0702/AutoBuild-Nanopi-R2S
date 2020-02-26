@@ -7,7 +7,7 @@
 #
 # Write by vipassana 2020/2/10
 # last update at 2020/2/19
-name: NanoPi-R2s RK3328 OpenWrt Build
+name: NanoPi-R2s 19.07.1 OpenWrt Build
 
 on:  
 #执行此脚本请删除下面3行的#，然后点击start commit
